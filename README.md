@@ -1,8 +1,8 @@
-# CRUDE
-Um CRUDE feito com HTML, CSS, Javascript, Bootstrap e ferramentas de estilização. Projeto elaborado para um trabalho da faculdade. O usuário pode cadastrar, editar e remover produtos.
+# CRUD
+Um CRUD feito com HTML, CSS, Javascript, Bootstrap e ferramentas de estilização. Projeto elaborado para um trabalho da faculdade. O usuário pode cadastrar, editar e remover produtos.
 
 # Visualização
-Abra o arquivo "index.html" ou arraste para seu navegador. Nele, estará o CRUDE.
+Abra o arquivo "index.html" ou arraste para seu navegador. Nele, estará o CRUD.
 
 # Grupo
 - NOME: Victor de Almeida Segantim / RA: 125111355117
