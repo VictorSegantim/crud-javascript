@@ -1,0 +1,73 @@
+body{
+	background-color: #39393A;
+}
+
+section{
+	color: white;
+}
+
+.divisor {
+	width: 1px;
+	background: white;
+	margin: 10px 20px;
+}
+
+.texto-modal{
+	color: #8E0045;
+}
+
+#nav-principal li a {
+	color: white;
+	font-weight: bold;
+}
+
+#nav-principal li a:hover {
+	color: lightskyblue;
+}
+
+.carousel-control-prev:hover{
+	background-image: linear-gradient(to left, rgb(0, 0, 0, 0), #8E0045);
+}
+
+.carousel-control-next:hover{
+	background-image: linear-gradient(to right, rgb(0, 0, 0, 0), #8E0045);
+}
+
+.borda-custom{
+	border: 5px outset #8E0045;
+}
+
+#fundo-nav{
+	background-color: #8E0045;
+}
+
+#logo-nav{
+	text-decoration: none;
+	color: white;
+}
+
+#fundo-crude{
+	margin-top: 30px;
+	background-image: linear-gradient(to bottom, rgb(0, 0, 0, 0), #8E0045);
+	border-radius: 20px;
+}
+
+#rodape-pagina{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	margin-top: 50px;
+}
+
+#rodape-pagina li a{
+	text-decoration: none;
+	color: white;
+}
+
+#rodape-pagina li a:hover{
+	color: #3F84E5;
+}
+
+
+footer h3{
+	color: #1B998B;
+}

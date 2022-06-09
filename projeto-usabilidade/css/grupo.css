@@ -1,0 +1,107 @@
+body{
+	background-color: #466362;
+}
+
+section{
+	color: white;
+}
+
+
+.row h5, .row h2{
+	color: #211A1E;
+	padding-left: 50px;
+	background-color: #C5F4E0;
+	border: 1px solid black;
+}
+
+.divisor {
+	width: 1px;
+	background: white;
+	margin: 10px 20px;
+}
+
+.margem-custom{
+	margin-top: 80px;
+}
+
+.container-fluid{
+	background-image: linear-gradient(to top, rgb(0, 0, 0, 0), #52B788);
+	height: 400px;
+}
+
+
+
+@keyframes flutuar{
+	0%{
+		transform: translateY(-15px);
+	}
+	50%{
+		transform: translateY(0px);
+	}
+	100%{
+		transform: translateY(-15px);
+	}
+}
+
+@keyframes degradeAnimado{
+	0%{
+		background-color: #DDDFDF;
+		/* background-image: linear-gradient(to right, #32936F, #52B788); */
+	}
+	50%{
+		background-color: #C5F4E0;
+	}
+	100%{
+		background-color: #DDDFDF;
+		/* background-image: linear-gradient(to right, #52B788, #32936F); */
+	}
+}
+
+
+.balanca{
+	animation: flutuar 5s ease-in-out infinite;
+	background-color: #00171F;
+	border-radius: 10px;
+}
+
+#nav-principal li a {
+	color: black;
+	font-weight: bold;
+}
+
+#nav-principal li a:hover {
+	color: white;
+}
+
+.borda-custom{
+	border: 5px outset #8E0045;
+}
+
+#fundo-nav{
+	background-color: #52B788;
+}
+
+#logo-nav{
+	text-decoration: none;
+	color: black;
+}
+
+#rodape-pagina{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+}
+
+#rodape-pagina li a{
+	text-decoration: none;
+	color: white;
+}
+
+#rodape-pagina li a:hover{
+	color: #3F84E5;
+}
+
+
+footer h3{
+	color: #1B998B;
+}
+
